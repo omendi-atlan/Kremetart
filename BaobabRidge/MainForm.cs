@@ -54,7 +54,7 @@ public class MainForm : Form
     /// </summary>
     private void BuildInterface()
     {
-        Text = "Baobab Ridge Wildlife Rehabilitation Records System";
+        Text = "Kremetart — Baobab Ridge Records System";
         StartPosition = FormStartPosition.CenterScreen;
         MinimumSize = new Size(980, 680);
         Font = new Font("Segoe UI", 9F);

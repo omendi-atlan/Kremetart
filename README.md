@@ -1,4 +1,9 @@
-# Baobab Ridge Wildlife Rehabilitation Records System
+# Kremetart — Baobab Ridge Wildlife Rehabilitation Records System
+
+> **Origin name:** *Kremetart* is the Afrikaans word for the baobab — the "Tree of Life" that gives
+> Baobab Ridge its name. Like the tree that stores water to survive the dry season, this system is
+> the single dependable store that keeps every animal's recovery story alive until it is ready to
+> return to the wild.
 
 A C# Windows Forms desktop application (**.NET 8**) that records every animal in care at the
 Baobab Ridge Wildlife Rehabilitation Centre, calculates its status and housing unit from the vet's
@@ -9,7 +14,7 @@ This project was built for the **PRG2782 Programming 2782** module (Project 2026
 
 ---
 
-## Team members
+## Team members (Team Kremetart)
 
 | Name | Student number | Primary feature(s) |
 |------|----------------|--------------------|
