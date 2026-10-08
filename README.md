@@ -22,7 +22,7 @@ This project was built for the **PRG2782 Programming 2782** module (Project 2026
 | _Member 2_ | _00000000_ |  |
 | _Member 3_ | _00000000_ |  |
 | _Member 4_ | _00000000_ |  |
-| _Member 5 | _00000000_ |  |
+| _Member 5_ | _00000000_ |  |
 
 > Replace the placeholder rows above with the real identities.
 
