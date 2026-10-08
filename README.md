@@ -72,8 +72,8 @@ All five required features are reachable from one clearly labelled window.
    git clone <repository-url>
    cd omendi-atlan
    ```
-2. Open `BaobabRidge.sln` in Visual Studio.
-3. Build and run with **F5** (or `dotnet run --project BaobabRidge/BaobabRidge.csproj`).
+2. Open `Kremetart.sln` in Visual Studio.
+3. Build and run with **F5** (or `dotnet run --project Kremetart/Kremetart.csproj`).
 
 No configuration, connection strings or external services are needed. The application has no file
 paths that are specific to one computer; `animals.txt` and `summary.txt` always live in the same
@@ -85,11 +85,11 @@ folder as the running `.exe`.
 
 ```
 omendi-atlan/
-├── BaobabRidge.sln
+├── Kremetart.sln
 ├── README.md
 ├── .gitignore
-└── BaobabRidge/
-    ├── BaobabRidge.csproj
+└── Kremetart/
+    ├── Kremetart.csproj
     ├── Program.cs                 # entry point
     ├── MainForm.cs                # the window; hosts all five features
     ├── animals.txt                # starter data (copied next to the .exe)

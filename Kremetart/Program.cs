@@ -1,4 +1,4 @@
-namespace BaobabRidge;
+namespace Kremetart;
 
 /// <summary>
 /// Application entry point. Sets up the WinForms environment and opens the main form.

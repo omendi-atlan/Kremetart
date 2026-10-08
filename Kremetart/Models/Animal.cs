@@ -1,4 +1,4 @@
-namespace BaobabRidge.Models;
+namespace Kremetart.Models;
 
 /// <summary>
 /// Represents a single animal in the rehabilitation centre's care.

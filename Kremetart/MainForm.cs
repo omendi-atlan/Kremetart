@@ -1,11 +1,11 @@
 using System.Globalization;
-using BaobabRidge.Models;
-using BaobabRidge.Services;
+using Kremetart.Models;
+using Kremetart.Services;
 
-namespace BaobabRidge;
+namespace Kremetart;
 
 /// <summary>
-/// The single window for the Baobab Ridge Wildlife Rehabilitation Records System.
+/// The single window for the Kremetart — Baobab Ridge Wildlife Rehabilitation Records System.
 /// It hosts all five required features: Add, View, Update, Delete and Summary.
 /// The controls are built in code so the form is complete after a fresh clone.
 /// </summary>

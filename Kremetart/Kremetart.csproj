@@ -6,8 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>BaobabRidge</RootNamespace>
-    <AssemblyName>BaobabRidge</AssemblyName>
+    <RootNamespace>Kremetart</RootNamespace>
+    <AssemblyName>Kremetart</AssemblyName>
   </PropertyGroup>
 
   <!-- The starter data file must sit next to the built .exe ("Copy if newer"). -->

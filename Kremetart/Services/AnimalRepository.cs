@@ -1,8 +1,8 @@
 using System.Globalization;
 using System.Text;
-using BaobabRidge.Models;
+using Kremetart.Models;
 
-namespace BaobabRidge.Services;
+namespace Kremetart.Services;
 
 /// <summary>
 /// Reads and writes animals.txt. The file lives in the same folder as the

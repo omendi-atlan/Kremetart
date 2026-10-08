@@ -1,8 +1,8 @@
 using System.Globalization;
 using System.Text;
-using BaobabRidge.Models;
+using Kremetart.Models;
 
-namespace BaobabRidge.Services;
+namespace Kremetart.Services;
 
 /// <summary>
 /// The figures calculated for the Centre manager's summary report. Holding them

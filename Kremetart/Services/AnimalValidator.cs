@@ -1,7 +1,7 @@
 using System.Text.RegularExpressions;
-using BaobabRidge.Models;
+using Kremetart.Models;
 
-namespace BaobabRidge.Services;
+namespace Kremetart.Services;
 
 /// <summary>
 /// The outcome of validating the add/edit form. When the input is valid it
