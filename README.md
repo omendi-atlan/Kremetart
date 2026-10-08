@@ -13,13 +13,13 @@ This project was built for the **PRG2782 Programming 2782** module (Project 2026
 
 | Name | Student number | Primary feature(s) |
 |------|----------------|--------------------|
-| _Member 1_ | _00000000_ | Add Animal |
-| _Member 2_ | _00000000_ | Update Animal |
-| _Member 3_ | _00000000_ | Delete Animal |
-| _Member 4_ | _00000000_ | Summary Report |
+| _Member 1_ | _00000000_ |  |
+| _Member 2_ | _00000000_ |  |
+| _Member 3_ | _00000000_ |  |
+| _Member 4_ | _00000000_ |  |
+| _Member 5 | _00000000_ |  |
 
-> Replace the placeholder rows above with the real group members, student numbers and the feature
-> each person owned before submission.
+> Replace the placeholder rows above with the real identities.
 
 ---
 
@@ -163,9 +163,6 @@ Each feature was developed on its own branch (for example `feature/add-animal`) 
 stable `main` branch through a pull request. Commit messages start with a verb and describe the
 change.
 
-> The commit-history requirements in the brief (at least 15 commits, each member making at least 3
-> commits on at least 3 different days, and at least one merged pull request per member) should be
-> met by the real group work before submission.
 
 ---
 
